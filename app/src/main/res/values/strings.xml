@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ElectoralCollegeQuiz</string>
+    <string name="question1">Why do we have the Electoral College? (Choose one answer)</string>
+    <string name="question2">How many electors are there? (Choose one answer)</string>
+    <string name="question3">How are electors selected? (Choose one answer)</string>
+    <string name="question4">When do electors vote? (Choose one answer)</string>
+    <string name="question5">What is on an elector\'s ballot? (Choose one answer)</string>
+
+    <string name="answer11">To protect small states from larger states.</string>
+    <string name="answer12">A compromise between Congress or public electing the President.</string>
+    <string name="answer13">To ensure there are only 2 parties in the United States.</string>
+    <string name="answer14">Because it was faster than hand counting the public vote.</string>
+
+    <string name="answer21">435</string>
+    <string name="answer22">535</string>
+    <string name="answer23">538</string>
+    <string name="answer24">100</string>
+
+    <string name="answer31">They are selected by state parties.</string>
+    <string name="answer32">They are elected by the state legislature.</string>
+    <string name="answer33">They are selected by Congress.</string>
+    <string name="answer34">None of the above.</string>
+
+    <string name="answer41">On election day.</string>
+    <string name="answer42">On January 6 following the election.</string>
+    <string name="answer43">Monday after the second Tuesday in December.</string>
+    <string name="answer44">The third Monday in November.</string>
+    <string name="answer45">None of the above.</string>
+
+    <string name="answer51">A single vote for either the Republican or Democratic candidate.</string>
+    <string name="answer52">A single vote for any name to become President and his chosen Vice President.</string>
+    <string name="answer53">Two votes. One for President and another for Vice President.</string>
+    <string name="answer54">All of the above.</string>
+</resources>
